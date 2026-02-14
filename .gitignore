@@ -1,0 +1,13 @@
+# Dependencies
+node_modules
+
+# Build output
+dist
+
+# Env (set VITE_BASE_URL in Netlify dashboard instead)
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
